@@ -1,7 +1,7 @@
 ![eng](logos/gb.png) [![es](logos/esp.png)](README.es.md)
 ## Pipex
 
-This poject recreates the use of pipes such as:
+This poject recreates the use of pipes such as on linux:
 ```
 <infile command1 | command2 > outfile
 ```
